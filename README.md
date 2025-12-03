@@ -5,6 +5,7 @@
 ## What is n8n?
 n8n is a powerful, extendable workflow automation tool that allows you to connect various services and applications with ease. It provides a user-friendly interface to create workflows that automate repetitive tasks, integrate APIs, and process data efficiently. With n8n, you can build complex workflows without writing extensive code.
 <p></p>
+<p></p>
 <img width="1911" height="995" alt="Screenshot 2025-12-03 121153" src="https://github.com/user-attachments/assets/b7d976e9-d6c9-4d0e-96d9-b941334e7dfc" />
 ## Project Description
 This project is an **Email Sender Automation** built using n8n. The workflow is triggered every 2 minutes and performs the following tasks:    
